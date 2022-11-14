@@ -16,7 +16,7 @@
     <!-- 集中定义依赖版本号 -->
     <properties>
         <junit.version>4.12</junit.version>
-        <spring.version>4.2.4.RELEASE</spring.version>
+        <spring.version>4.2.7.RELEASE</spring.version>
         <struts2.version>2.3.24</struts2.version>
         <hibernate.version>5.0.7.Final</hibernate.version>
         <pagehelper.version>4.0.0</pagehelper.version>
